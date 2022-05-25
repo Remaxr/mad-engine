@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Up.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Proper Up0000" x="0" y="0" width="593" height="682"/>
+	<SubTexture name="Proper Up0001" x="593" y="0" width="593" height="682"/>
+	<SubTexture name="Proper Up0002" x="1186" y="0" width="593" height="682"/>
+	<SubTexture name="Proper Up0003" x="0" y="682" width="593" height="682"/>
+	<SubTexture name="Proper Up0004" x="593" y="682" width="593" height="682"/>
+	<SubTexture name="Proper Up0005" x="1186" y="682" width="593" height="682"/>
+</TextureAtlas>
